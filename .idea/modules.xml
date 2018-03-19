@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/instaspringboot.iml" filepath="$PROJECT_DIR$/instaspringboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/instaspringboot_main.iml" filepath="$PROJECT_DIR$/.idea/modules/instaspringboot_main.iml" group="instaspringboot" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/instaspringboot_test.iml" filepath="$PROJECT_DIR$/.idea/modules/instaspringboot_test.iml" group="instaspringboot" />
+    </modules>
+  </component>
+</project>
